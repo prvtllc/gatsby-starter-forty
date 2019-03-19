@@ -41,7 +41,7 @@ class HomeIndex extends React.Component {
                                 <h3>Computer Forensics Consulting</h3>
                                 <p>Who says that your forensics consultant can't be both a highly trained technical expert and a successful cyber lawyer?</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/computer-forensics-consulting" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
