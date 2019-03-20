@@ -34,7 +34,7 @@ class HomeIndex extends React.Component {
                                 <h3>Internet Defamation</h3>
                                 <p>Including Consultation with attorneys to investigate the identity of Internet actors</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/online-defamation" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
